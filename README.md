@@ -1,4 +1,6 @@
 # gitskills
-hello 
-it is easy?
-this is a new branch called dev,it means development
+<<<<<<< HEAD
+=======
+hello this is a new branch called dev,it means development
+creating a new branch`
+>>>>>>> feature1
